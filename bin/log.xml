@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+   <date>2018/1/19</date>
+   <problem>results of LEX_NFA will repeat sometimes</problem>
+   <solution>1、make a feasibility research of Lexer1.0
+             2、read code of dragon even it's a terrible thing
+   </solution>
+</log>
+
+<log>
+   <date>2018/1/20</date>
+      <problem>Lexer1.0 is too complex to being a efficient Lexer or Symbols </problem>
+      <solution>It's time to discard Lexer1.0 and Let's make a new Lexer2.0</solution>
+</log>
